@@ -80,26 +80,26 @@ In Summary we have practiced different types of SQL queries including keyword NO
 This project helps in understanding the importance of SQL in real incidents and understanding .  
 And queries in sql to fetch the required data for required scenarios.
 
-[image1]:
+[image1]:https://raw.githubusercontent.com/LakshanRaghav/Applying_SQL_Filters/refs/heads/main/supporting_docs/Screenshot_8-8-2026_151459_kde424mkzlvwz7gt2sadjez5wqsekdgzd5rvjaxz34pd6edfwzyq.us-east1-b.resources.bumper-bo.jpeg
 
-[image2]:
+[image2]:https://raw.githubusercontent.com/LakshanRaghav/Applying_SQL_Filters/refs/heads/main/supporting_docs/Screenshot_8-8-2026_145339_kde424mkzlvwz7gt2sadjez5wqsekdgzd5rvjaxz34pd6edfwzyq.us-east1-b.resources.bumper-bo.jpeg
 
-[image3]:
+[image3]:https://raw.githubusercontent.com/LakshanRaghav/Applying_SQL_Filters/refs/heads/main/supporting_docs/Screenshot_8-8-2026_145616_kde424mkzlvwz7gt2sadjez5wqsekdgzd5rvjaxz34pd6edfwzyq.us-east1-b.resources.bumper-bo.jpeg
 
-[image4]:
+[image4]:https://raw.githubusercontent.com/LakshanRaghav/Applying_SQL_Filters/refs/heads/main/supporting_docs/Screenshot_8-8-2026_1508_kde424mkzlvwz7gt2sadjez5wqsekdgzd5rvjaxz34pd6edfwzyq.us-east1-b.resources.bumper-boat.jpeg
 
-[image5]:
+[image5]:https://raw.githubusercontent.com/LakshanRaghav/Applying_SQL_Filters/refs/heads/main/supporting_docs/Screenshot_8-8-2026_145921_kde424mkzlvwz7gt2sadjez5wqsekdgzd5rvjaxz34pd6edfwzyq.us-east1-b.resources.bumper-bo.jpeg
 
-[image6]:
+[image6]:https://raw.githubusercontent.com/LakshanRaghav/Applying_SQL_Filters/refs/heads/main/supporting_docs/Screenshot_8-8-2026_15158_kde424mkzlvwz7gt2sadjez5wqsekdgzd5rvjaxz34pd6edfwzyq.us-east1-b.resources.bumper-boa.jpeg
 
-[image7]:
+[image7]:https://raw.githubusercontent.com/LakshanRaghav/Applying_SQL_Filters/refs/heads/main/supporting_docs/Screenshot_8-8-2026_1539_kde424mkzlvwz7gt2sadjez5wqsekdgzd5rvjaxz34pd6edfwzyq.us-east1-b.resources.bumper-boat.jpeg
 
-[image8]:
+[image8]:https://raw.githubusercontent.com/LakshanRaghav/Applying_SQL_Filters/refs/heads/main/supporting_docs/Screenshot_8-8-2026_15523_kde424mkzlvwz7gt2sadjez5wqsekdgzd5rvjaxz34pd6edfwzyq.us-east1-b.resources.bumper-boa.jpeg
 
-[image9]: 
+[image9]:https://raw.githubusercontent.com/LakshanRaghav/Applying_SQL_Filters/refs/heads/main/supporting_docs/Screenshot_8-8-2026_15740_kde424mkzlvwz7gt2sadjez5wqsekdgzd5rvjaxz34pd6edfwzyq.us-east1-b.resources.bumper-boa.jpeg
 
-[image10]:
+[image10]:https://raw.githubusercontent.com/LakshanRaghav/Applying_SQL_Filters/refs/heads/main/supporting_docs/Screenshot_8-8-2026_15716_kde424mkzlvwz7gt2sadjez5wqsekdgzd5rvjaxz34pd6edfwzyq.us-east1-b.resources.bumper-boa.jpeg
 
-[image11]:
+[image11]:https://raw.githubusercontent.com/LakshanRaghav/Applying_SQL_Filters/refs/heads/main/supporting_docs/Screenshot_8-8-2026_15913_kde424mkzlvwz7gt2sadjez5wqsekdgzd5rvjaxz34pd6edfwzyq.us-east1-b.resources.bumper-boa.jpeg
 
-[image12]:
+[image12]:https://raw.githubusercontent.com/LakshanRaghav/Applying_SQL_Filters/refs/heads/main/supporting_docs/Screenshot_8-8-2026_15922_kde424mkzlvwz7gt2sadjez5wqsekdgzd5rvjaxz34pd6edfwzyq.us-east1-b.resources.bumper-boa.jpeg
