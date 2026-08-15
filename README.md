@@ -1,5 +1,5 @@
 # Applying_SQL_Filters
-As part of Google Cybersecurity Certification this a project to understanding SQL queries and its use case in different scenarios
+Implementation of targeted SQL database queries and filtering scripts to parse massive corporate database transactional tables for security audit validation.
 
 # Apply filters to SQL queries
 
